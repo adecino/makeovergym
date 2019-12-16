@@ -4,8 +4,8 @@ import "./PromoBar.css";
 class PromoBar extends Component {
     render () {
         return (
-            <div className = "">
-                <h1> What is up </h1>
+            <div className = "promoBar">
+                <h1> Empowering women through <br/> health and fitness </h1>
             </div>
               
         );

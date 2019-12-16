@@ -2,7 +2,7 @@
     background-color: #404040;
     padding-top: 10px;
     padding-bottom: 15px;
-    text-align: left;
+    text-align: center;
     font-family: Helvetica;
     color: white;
     position: sticky;
@@ -11,7 +11,7 @@
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 0;
-    padding-left: 175px;
+    font-size: 100px;
     display: inline-block;
 }
 
@@ -25,4 +25,6 @@
 .header .menu p {
     display: inline-block;
     width: 200px;
+    margin-top: 5px;
+    margin-bottom: 0px;
 }

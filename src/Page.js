@@ -12,11 +12,11 @@ class Page extends Component {
             <div className = "page">
                 <BannerFold />
                 <PromoBar />
-                <InfoSection />
+               {/* <InfoSection />
                 <PromoBar />
                 <CarouselBanner />
                 <PromoBar />
-                <BottomSection />
+                <BottomSection />*/}
 
             </div>
               

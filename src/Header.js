@@ -5,11 +5,11 @@ class Header extends Component {
     render () {
         return (
             <div className="header">
-                <h1> THE MAKEOVER GYM</h1>
+                <h1 href="http://localhost:3001" target="_blank"> THE MAKEOVER GYM</h1>
                 <div className="menu">
+                    <p> Memberships </p>
                     <p> Schedule </p>
-                    <p> About </p>
-                    <p> First Timers </p>
+                    <p> Calendar </p>
                     <p> Trainers </p>
                 </div>
             </div>

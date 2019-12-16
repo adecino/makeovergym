@@ -1,6 +1,18 @@
 .bannerFold {
     /*background-color: #e05275;*/
-    background-image: url("http://drive.google.com/uc?export=view&id=16voT3EOj-x2yE6CWdzjeHX1J4eYPc0Dt");
-    height:200px;
-    width: 200px;  
+    background-image: url("http://drive.google.com/uc?export=view&id=1YMOEV8jj8nq7vdyGqHx56Pduxu-zLYEe");
+    height: 70vh;
+    background-size: cover;
+}
+
+.bannerFold h1 {
+    margin: 0;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 80px;
+    font-family: Lato;
+    font-weight: 900;
+    text-align: left;
+    padding-left: 100px;
+    padding-bottom: 0px;
 }
