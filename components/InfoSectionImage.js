@@ -13,6 +13,14 @@ class InfoSectionImage extends Component {
                         height: 100vh;
                         background-size: cover;
                     }
+
+                    @media screen and (max-width: 820px) {
+                        .infoSectionImage {
+                            background-image: none;
+                            background-color: black;
+                            display: none;
+                        }
+                    }
                 `}</style>
             </div>
               

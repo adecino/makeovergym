@@ -28,7 +28,7 @@ class TrainersSection extends Component {
 
                     .trainersSection .stacyImage {
                         width: 50%;
-                        background-image: url("http://drive.google.com/uc?export=view&id=1Y2H2DV__ISTvHG-pyIq9xWsUoQAJrWrE");
+                        background-image: url("http://drive.google.com/uc?export=view&id=12fpfNQpYoandpW_R_L5Mx2-8crHyGMow");
                         height: 100vh;
                         background-size: cover;
                         display: inline-block;
@@ -39,6 +39,18 @@ class TrainersSection extends Component {
                         display: inline-block;
                         vertical-align: top;
                     }
+
+                    @media screen and (max-width: 820px) {
+                        .trainersSection .stacyImage {
+                            display: none;
+                        }
+
+                        .trainersSection .stacyInfo {
+                            width: 100%;
+                        }
+
+                     }
+
                 `}</style>
             </div>
         );

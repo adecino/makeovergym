@@ -1,10 +1,11 @@
 import React, {Component} from "react";
+import Link from 'next/link';
 
 class SignUpButton extends Component {
     render () {
         return (
             <div className = "signUpButton">
-                <a href="http://google.com" className="button1">SEE THE SCHEDULE</a>
+                <Link href="/schedule"><a className="button1"> SCHEDULE </a></Link>
                 <style jsx>{`
                     .signUpButton a.button1{
                         display:inline-block;
@@ -30,10 +31,17 @@ class SignUpButton extends Component {
                         border: #e05275;
                     }
 
-                    @media all and (max-width:30em){
-                        a.button1{
-                        display:block;
-                        margin:0.4em auto;
+                    @media screen and (max-width: 820px) {
+                        .signUpButton a.button1{
+                            margin-right: auto;
+                            margin-left: 2vw;
+                            width: 40vw;
+                            height: 5vh;
+                            font-size: 4vw;
+                            padding-left: 1vw;
+                            padding-right: 1vw;
+                            padding-top: 1vh;
+                            padding-bottom: 1vh;
                         }
                     } 
                 `}</style>

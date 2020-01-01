@@ -4,7 +4,7 @@ class InfoSectionContainer extends Component {
     render () {
         return (
             <div className = "infoSectionContainer">
-                <h1>San Marino's<br/> Most Popular<br/> Women's Gym</h1>
+                <h1>San Marino's Most Popular Women's Gym</h1>
 
                 <p className = "shoutout">A goal-driven environment for women to achieve greatness</p>
                 <p> We are building a community of lasting friendships and self-growth through education and wellness. </p>
@@ -30,23 +30,44 @@ class InfoSectionContainer extends Component {
 
                 .infoSectionContainer h1 {
                     font-weight: 900;
-                    margin-top: 0px;
-                    margin-bottom: 0;
-                    font-size: 50px;
-                    padding-right: 100px;
-                    padding-left: 20px;
+                    margin-top: 0vh;
+                    margin-bottom: 0vh;
+                    font-size: 4vw;
+                    padding-left: 1.5vw;
                     padding-top: 5px;
-                    line-height: 60px;
+                    line-height: 9vh;
                 }
 
                 .infoSectionContainer p {
-                    padding-left: 20px;
+                    padding-left: 1.5vw;
+                    font-size: 1.25vw;
                 }
 
                 .infoSectionContainer .shoutout {
                     font-weight: 700;
-                    padding-left: 20px;
+                    padding-left: 1.5vw;
                     font-size: 20px;
+                }
+
+                @media screen and (max-width: 820px) {
+                    .infoSectionContainer {
+                        width: 100%;
+                    }
+
+                    .infoSectionContainer h1 {
+                        font-size: 8vw;
+                        line-height: normal;
+                    }
+
+                    .infoSectionContainer .shoutout {
+                        font-size: 5vw;
+                        margin-right: 5vw;
+                    }
+
+                    .infoSectionContainer p {
+                        font-size: 4vw;
+                        margin-right: 5vw;
+                    }
                 }
             `}</style>
             </div>

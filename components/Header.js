@@ -38,13 +38,6 @@ class Header extends Component {
                         text-align: left
                     }
 
-                    .header .menu p {
-                        display: inline-block;
-                        width: 200px;
-                        margin-top: 5px;
-                        margin-bottom: 0px;
-                    }
-
                     .header .menu a {
                         color: white;
                         text-decoration: none;
@@ -56,6 +49,23 @@ class Header extends Component {
 
                     .header .menu a:hover {
                         text-decoration: underline;
+                    }
+
+                    @media screen and (max-width: 820px) {
+                        .header h1 {
+                            font-size: 8vw;
+                            text-align: center;
+                        }
+
+                        .header .menu {
+                            padding-left: 10px;
+                            display: flex;
+                            text-align: center;
+                        }
+
+                        .header .menu a {
+                            font-size: 3vw;
+                        }
                     }
                 `}</style>
             </div>

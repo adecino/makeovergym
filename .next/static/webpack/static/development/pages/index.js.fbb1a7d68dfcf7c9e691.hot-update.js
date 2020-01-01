@@ -1,0 +1,72 @@
+webpackHotUpdate("static/development/pages/index.js",{
+
+/***/ "./components/BannerFold.js":
+/*!**********************************!*\
+  !*** ./components/BannerFold.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "./node_modules/styled-jsx/style.js");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _SignUpButton_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SignUpButton.js */ "./components/SignUpButton.js");
+var _jsxFileName = "/home/jamie/makeovergym/components/BannerFold.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
+
+
+
+class BannerFold extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
+  render() {
+    return __jsx("div", {
+      className: "jsx-2289507396" + " " + "bannerFold",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 7
+      },
+      __self: this
+    }, __jsx("h1", {
+      className: "jsx-2289507396",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 8
+      },
+      __self: this
+    }, "Sign up for ", __jsx("br", {
+      className: "jsx-2289507396",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 8
+      },
+      __self: this
+    }), " your first week ", __jsx("br", {
+      className: "jsx-2289507396",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 8
+      },
+      __self: this
+    }), " FREE!"), __jsx(_SignUpButton_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 9
+      },
+      __self: this
+    }), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+      id: "2289507396",
+      __self: this
+    }, ".bannerFold.jsx-2289507396{background-image:url(\"http://drive.google.com/uc?export=view&id=1YMOEV8jj8nq7vdyGqHx56Pduxu-zLYEe\");max-width:100%;height:70vh;background-size:cover;}.bannerFold.jsx-2289507396 h1.jsx-2289507396{margin:0;color:white;text-shadow:-1px 0 black,0 1px black,1px 0 black,0 -1px black;font-size:5vw;font-family:Lato;font-weight:900;text-align:left;padding-left:100px;padding-bottom:0px;}@media screen and (max-width:820px){.bannerFold.jsx-2289507396{background-image:url(\"http://drive.google.com/uc?export=view&id=1u7oNggH9pIYbEFbLhIc_N502bjDyWF83\");background-color:black;text-align:center;}.bannerFold.jsx-2289507396 h1.jsx-2289507396{font-size:10vw;padding-left:10px;padding-top:10px;text-align:center;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvQmFubmVyRm9sZC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTNkIsQUFHNkgsQUFPM0YsQUFhK0YsQUFNckYsU0FsQlAsTUFtQlUsTUFsQjJDLFlBbUI1QyxpQkFDQyxrQkFDdEIsZUFwQmMsY0FDRyxHQVZGLEFBb0JZLGNBVFgsQ0FWSixRQW9CVSxJQW5CQSxHQVVOLFdBVWhCLEtBVG1CLEdBVnZCLGdCQVd1QixtQkFDdkIiLCJmaWxlIjoiL2hvbWUvamFtaWUvbWFrZW92ZXJneW0vY29tcG9uZW50cy9CYW5uZXJGb2xkLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBTaWduVXBCdXR0b24gZnJvbSAnLi9TaWduVXBCdXR0b24uanMnO1xuXG5jbGFzcyBCYW5uZXJGb2xkIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gKFxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcImJhbm5lckZvbGRcIj5cbiAgICAgICAgICAgICAgICA8aDE+U2lnbiB1cCBmb3IgPGJyLz4geW91ciBmaXJzdCB3ZWVrIDxici8+IEZSRUUhPC9oMT5cbiAgICAgICAgICAgICAgICA8U2lnblVwQnV0dG9uLz5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PiB7YFxuICAgICAgICAgICAgICAgICAgICAuYmFubmVyRm9sZCB7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9dmlldyZpZD0xWU1PRVY4amo4bnE3dmR5R3FIeDU2UGR1eHUtekxZRWVcIik7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXgtd2lkdGg6IDEwMCU7XG4gICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDcwdmg7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmJhbm5lckZvbGQgaDEge1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1zaGFkb3c6IC0xcHggMCBibGFjaywgMCAxcHggYmxhY2ssIDFweCAwIGJsYWNrLCAwIC0xcHggYmxhY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDV2dztcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBMYXRvO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDkwMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGxlZnQ7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDEwMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogODIwcHgpIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIC5iYW5uZXJGb2xkIHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9dmlldyZpZD0xdTdvTmdnSDlwSVliRUZiTGhJY19ONTAyYmpEeVdGODNcIik7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgICAgICAuYmFubmVyRm9sZCBoMSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAxMHZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLXRvcDogMTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj4gICAgICAgICAgICAgIFxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgQmFubmVyRm9sZDsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/BannerFold.js */"));
+  }
+
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (BannerFold);
+
+/***/ })
+
+})
+//# sourceMappingURL=index.js.fbb1a7d68dfcf7c9e691.hot-update.js.map

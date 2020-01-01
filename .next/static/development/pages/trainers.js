@@ -147,7 +147,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-2250365353" + " " + "header",
+      className: "jsx-1257524349" + " " + "header",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
@@ -161,14 +161,14 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 8
       },
       __self: this
     }, " MAKEOVER FITNESS")), __jsx("div", {
-      className: "jsx-2250365353" + " " + "menu",
+      className: "jsx-1257524349" + " " + "menu",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 9
@@ -182,7 +182,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 10
@@ -196,7 +196,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 11
@@ -210,7 +210,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 12
@@ -224,16 +224,16 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 13
       },
       __self: this
     }, " Trainers "))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "2250365353",
+      id: "1257524349",
       __self: this
-    }, ".header.jsx-2250365353{background-color:#404040;padding-top:10px;padding-bottom:15px;text-align:center;font-family:Helvetica;color:white;position:-webkit-sticky;position:sticky;top:0;}.header.jsx-2250365353 h1.jsx-2250365353{font-weight:900;margin-top:0;margin-bottom:0;font-size:100px;display:inline-block;}.header.jsx-2250365353 .menu.jsx-2250365353{font-weight:900;display:inline-block;padding-left:200px;text-align:left;}.header.jsx-2250365353 .menu.jsx-2250365353 p.jsx-2250365353{display:inline-block;width:200px;margin-top:5px;margin-bottom:0px;}.header.jsx-2250365353 .menu.jsx-2250365353 a.jsx-2250365353{color:white;-webkit-text-decoration:none;text-decoration:none;display:inline-block;width:200px;margin-top:5px;margin-bottom:0px;}.header.jsx-2250365353 .menu.jsx-2250365353 a.jsx-2250365353:hover{-webkit-text-decoration:underline;text-decoration:underline;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWM0QixBQUdrRCxBQVVULEFBUUEsQUFPSyxBQU9ULEFBU2MsWUFSTCxJQXRCUixBQVFRLEtBT1QsSUF6QkssSUFXRCxJQWVELElBUEksS0FsQkMsR0FXSixHQWVFLFFBTnZCLElBb0JDLENBNUJ5QixDQVhILEFBK0JHLElBTHpCLE1BUEEsUUFsQjBCLEVBVzFCLENBb0JnQixZQUNHLE9BL0JILFFBZ0NNLElBL0JGLGNBZ0NwQiwwQkEvQlUsTUFDViIsImZpbGUiOiIvaG9tZS9qYW1pZS9tYWtlb3Zlcmd5bS9jb21wb25lbnRzL0hlYWRlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwge0NvbXBvbmVudH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5jbGFzcyBIZWFkZXIgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlclwiPlxuICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+PGgxPiBNQUtFT1ZFUiBGSVRORVNTPC9oMT48L0xpbms+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJtZW51XCI+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvbWVtYmVyc2hpcHNcIj48YT4gTWVtYmVyc2hpcHMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9zY2hlZHVsZVwiPjxhPiBTY2hlZHVsZSA8L2E+PC9MaW5rPlxuICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL2NhbGVuZGFyXCI+PGE+IENhbGVuZGFyIDwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvdHJhaW5lcnNcIj48YT4gVHJhaW5lcnMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDE1cHg7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogSGVsdmV0aWNhO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246IHN0aWNreTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRvcDogMDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTAwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIC5tZW51IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7ICAgXG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDIwMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdFxuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmhlYWRlciAubWVudSBwIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAyMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIgLm1lbnUgYSB7XG4gICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiA1cHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAwcHg7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIC5tZW51IGE6aG92ZXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7XG4gICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgKTtcbiAgICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEhlYWRlcjsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/Header.js */"));
+    }, ".header.jsx-1257524349{background-color:#404040;padding-top:10px;padding-bottom:15px;text-align:center;font-family:Helvetica;color:white;position:-webkit-sticky;position:sticky;top:0;}.header.jsx-1257524349 h1.jsx-1257524349{font-weight:900;margin-top:0;margin-bottom:0;font-size:100px;display:inline-block;}.header.jsx-1257524349 .menu.jsx-1257524349{font-weight:900;display:inline-block;padding-left:200px;text-align:left;}.header.jsx-1257524349 .menu.jsx-1257524349 a.jsx-1257524349{color:white;-webkit-text-decoration:none;text-decoration:none;display:inline-block;width:200px;margin-top:5px;margin-bottom:0px;}.header.jsx-1257524349 .menu.jsx-1257524349 a.jsx-1257524349:hover{-webkit-text-decoration:underline;text-decoration:underline;}@media screen and (max-width:820px){.header.jsx-1257524349 h1.jsx-1257524349{font-size:8vw;text-align:center;}.header.jsx-1257524349 .menu.jsx-1257524349{padding-left:10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;text-align:center;}.header.jsx-1257524349 .menu.jsx-1257524349 a.jsx-1257524349{font-size:3vw;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWM0QixBQUdrRCxBQVVULEFBUUEsQUFPSixBQVNjLEFBS1IsQUFLSSxBQU1KLFlBeEJHLEVBY0MsQUFXdEIsRUF4Q2EsQUFRUSxFQTBCSixPQTVDQSxJQVdELEdBNkJoQixLQXJCbUIsS0FsQkMsR0FXSixXQVNyQixJQWFDLENBckJ5QixDQVhILEFBd0JHLFVBTHpCLFFBbEIwQixFQVcxQixDQWFnQixTQWtCVSxHQWpCUCxPQXhCSCxRQXlCTSxBQWlCbEIsSUF6Q2dCLGNBeUJwQiwwQkF4QlUsTUFDViIsImZpbGUiOiIvaG9tZS9qYW1pZS9tYWtlb3Zlcmd5bS9jb21wb25lbnRzL0hlYWRlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwge0NvbXBvbmVudH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5jbGFzcyBIZWFkZXIgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlclwiPlxuICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+PGgxPiBNQUtFT1ZFUiBGSVRORVNTPC9oMT48L0xpbms+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJtZW51XCI+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvbWVtYmVyc2hpcHNcIj48YT4gTWVtYmVyc2hpcHMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9zY2hlZHVsZVwiPjxhPiBTY2hlZHVsZSA8L2E+PC9MaW5rPlxuICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL2NhbGVuZGFyXCI+PGE+IENhbGVuZGFyIDwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvdHJhaW5lcnNcIj48YT4gVHJhaW5lcnMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDE1cHg7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogSGVsdmV0aWNhO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246IHN0aWNreTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRvcDogMDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTAwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIC5tZW51IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7ICAgXG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDIwMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdFxuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmhlYWRlciAubWVudSBhIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAyMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIgLm1lbnUgYTpob3ZlciB7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDgyMHB4KSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDh2dztcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgICAgIC5oZWFkZXIgLm1lbnUge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAgICAgLmhlYWRlciAubWVudSBhIHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDN2dztcbiAgICAgICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgSGVhZGVyOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/Header.js */"));
   }
 
 }
@@ -317,44 +317,44 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class TrainersSection extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-1113736303" + " " + "trainersSection",
+      className: "jsx-3262975496" + " " + "trainersSection",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 6
       },
       __self: this
     }, __jsx("div", {
-      className: "jsx-1113736303" + " " + "stacyImage",
+      className: "jsx-3262975496" + " " + "stacyImage",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
       },
       __self: this
     }), __jsx("div", {
-      className: "jsx-1113736303" + " " + "stacyInfo",
+      className: "jsx-3262975496" + " " + "stacyInfo",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 9
       },
       __self: this
     }, __jsx("p", {
-      className: "jsx-1113736303" + " " + "shoutout",
+      className: "jsx-3262975496" + " " + "shoutout",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 10
       },
       __self: this
     }, " Stacy Yip"), __jsx("p", {
-      className: "jsx-1113736303",
+      className: "jsx-3262975496",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 11
       },
       __self: this
     }, "I am a Michigan native, went to college in San Francisco, taught English in China, and then settled in Los Angeles to help take care of my 90 year old grandmother. She is my biggest motivation to stay healthy and strong. It hurt me to see that she was bedridden, and unable to enjoy the usual daily tasks that we take for granted. She keeps me passionate for my own health and to help others slow down the aging process. I have been a personal trainer for 5 years. After being certified with NASM (National Association of Science Medicine) and taking another certification course through WITS. I adhere to a science based training program tailored for the client to use their time and energy as efficiently as possible. Our health is made up of many different habits, I believe in making the process as dynamic and fun as possible. ")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "1113736303",
+      id: "3262975496",
       __self: this
-    }, ".trainersSection.jsx-1113736303{font-family:Lato;}.trainersSection.jsx-1113736303 .shoutout.jsx-1113736303{font-weight:900;padding-left:20px;font-size:30px;}.trainersSection.jsx-1113736303 p.jsx-1113736303{padding-left:20px;}.trainersSection.jsx-1113736303 .stacyImage.jsx-1113736303{width:50%;background-image:url(\"http://drive.google.com/uc?export=view&id=1Y2H2DV__ISTvHG-pyIq9xWsUoQAJrWrE\");height:100vh;background-size:cover;display:inline-block;}.trainersSection.jsx-1113736303 .stacyInfo.jsx-1113736303{width:50%;display:inline-block;vertical-align:top;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvVHJhaW5lcnNTZWN0aW9uLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWE0QixBQUcwQyxBQUlELEFBTUUsQUFJUixBQVFBLFVBUDBGLEFBUS9FLE1BbEJILENBSnRCLENBVUEsYUFhdUIsR0FsQkosZUFDbkIsQ0FrQkEsNERBVGlCLGFBQ1Msc0JBQ0QscUJBQ3pCIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvVHJhaW5lcnNTZWN0aW9uLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcblxuY2xhc3MgVHJhaW5lcnNTZWN0aW9uIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gKFxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcInRyYWluZXJzU2VjdGlvblwiPlxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lID0gXCJzdGFjeUltYWdlXCI+XG4gICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcInN0YWN5SW5mb1wiPlxuICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWUgPSBcInNob3V0b3V0XCI+IFN0YWN5IFlpcDwvcD5cbiAgICAgICAgICAgICAgICAgICAgPHA+SSBhbSBhIE1pY2hpZ2FuIG5hdGl2ZSwgd2VudCB0byBjb2xsZWdlIGluIFNhbiBGcmFuY2lzY28sIHRhdWdodCBFbmdsaXNoIGluIENoaW5hLCBhbmQgdGhlbiBzZXR0bGVkIGluIExvcyBBbmdlbGVzIHRvIGhlbHAgdGFrZSBjYXJlIG9mIG15IDkwIHllYXIgb2xkIGdyYW5kbW90aGVyLiBTaGUgaXMgbXkgYmlnZ2VzdCBtb3RpdmF0aW9uIHRvIHN0YXkgaGVhbHRoeSBhbmQgc3Ryb25nLiBJdCBodXJ0IG1lIHRvIHNlZSB0aGF0IHNoZSB3YXMgYmVkcmlkZGVuLCBhbmQgdW5hYmxlIHRvIGVuam95IHRoZSB1c3VhbCBkYWlseSB0YXNrcyB0aGF0IHdlIHRha2UgZm9yIGdyYW50ZWQuIFNoZSBrZWVwcyBtZSBwYXNzaW9uYXRlIGZvciBteSBvd24gaGVhbHRoIGFuZCB0byBoZWxwIG90aGVycyBzbG93IGRvd24gdGhlIGFnaW5nIHByb2Nlc3MuIEkgaGF2ZSBiZWVuIGEgcGVyc29uYWwgdHJhaW5lciBmb3IgNSB5ZWFycy4gQWZ0ZXIgYmVpbmcgY2VydGlmaWVkIHdpdGggTkFTTSAoTmF0aW9uYWwgQXNzb2NpYXRpb24gb2YgU2NpZW5jZSBNZWRpY2luZSkgYW5kIHRha2luZyBhbm90aGVyIGNlcnRpZmljYXRpb24gY291cnNlIHRocm91Z2ggV0lUUy4gSSBhZGhlcmUgdG8gYSBzY2llbmNlIGJhc2VkIHRyYWluaW5nIHByb2dyYW0gdGFpbG9yZWQgZm9yIHRoZSBjbGllbnQgdG8gdXNlIHRoZWlyIHRpbWUgYW5kIGVuZXJneSBhcyBlZmZpY2llbnRseSBhcyBwb3NzaWJsZS4gT3VyIGhlYWx0aCBpcyBtYWRlIHVwIG9mIG1hbnkgZGlmZmVyZW50IGhhYml0cywgSSBiZWxpZXZlIGluIG1ha2luZyB0aGUgcHJvY2VzcyBhcyBkeW5hbWljIGFuZCBmdW4gYXMgcG9zc2libGUuIDwvcD5cbiAgICAgICAgICAgICAgICA8L2Rpdj5cblxuICAgICAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICAgICAgICAgICAgLnRyYWluZXJzU2VjdGlvbiB7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogTGF0bzsgICAgICAgICAgICAgICAgICAgIFxuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLnRyYWluZXJzU2VjdGlvbiAuc2hvdXRvdXQge1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDkwMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMjBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMzBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC50cmFpbmVyc1NlY3Rpb24gcCB7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDIwcHg7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAudHJhaW5lcnNTZWN0aW9uIC5zdGFjeUltYWdlIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA1MCU7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9dmlldyZpZD0xWTJIMkRWX19JU1R2SEctcHlJcTl4V3NVb1FBSnJXckVcIik7XG4gICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMHZoO1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC50cmFpbmVyc1NlY3Rpb24gLnN0YWN5SW5mbyB7XG4gICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNTAlO1xuICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICAgICAgICAgICAgICAgICAgdmVydGljYWwtYWxpZ246IHRvcDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgVHJhaW5lcnNTZWN0aW9uOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/TrainersSection.js */"));
+    }, ".trainersSection.jsx-3262975496{font-family:Lato;}.trainersSection.jsx-3262975496 .shoutout.jsx-3262975496{font-weight:900;padding-left:20px;font-size:30px;}.trainersSection.jsx-3262975496 p.jsx-3262975496{padding-left:20px;}.trainersSection.jsx-3262975496 .stacyImage.jsx-3262975496{width:50%;background-image:url(\"http://drive.google.com/uc?export=view&id=12fpfNQpYoandpW_R_L5Mx2-8crHyGMow\");height:100vh;background-size:cover;display:inline-block;}.trainersSection.jsx-3262975496 .stacyInfo.jsx-3262975496{width:50%;display:inline-block;vertical-align:top;}@media screen and (max-width:820px){.trainersSection.jsx-3262975496 .stacyImage.jsx-3262975496{display:none;}.trainersSection.jsx-3262975496 .stacyInfo.jsx-3262975496{width:100%;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvVHJhaW5lcnNTZWN0aW9uLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWE0QixBQUcwQyxBQUlELEFBTUUsQUFJUixBQVFBLEFBT08sQUFJRixVQWxCcUYsQUFRL0UsQ0FXckIsRUFKQSxHQXpCa0IsQ0FKdEIsQ0FVQSxhQWF1QixHQWxCSixlQUNuQixDQWtCQSw0REFUaUIsYUFDUyxzQkFDRCxxQkFDekIiLCJmaWxlIjoiL2hvbWUvamFtaWUvbWFrZW92ZXJneW0vY29tcG9uZW50cy9UcmFpbmVyc1NlY3Rpb24uanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHtDb21wb25lbnR9IGZyb20gXCJyZWFjdFwiO1xuXG5jbGFzcyBUcmFpbmVyc1NlY3Rpb24gZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9IFwidHJhaW5lcnNTZWN0aW9uXCI+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcInN0YWN5SW1hZ2VcIj5cbiAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9IFwic3RhY3lJbmZvXCI+XG4gICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZSA9IFwic2hvdXRvdXRcIj4gU3RhY3kgWWlwPC9wPlxuICAgICAgICAgICAgICAgICAgICA8cD5JIGFtIGEgTWljaGlnYW4gbmF0aXZlLCB3ZW50IHRvIGNvbGxlZ2UgaW4gU2FuIEZyYW5jaXNjbywgdGF1Z2h0IEVuZ2xpc2ggaW4gQ2hpbmEsIGFuZCB0aGVuIHNldHRsZWQgaW4gTG9zIEFuZ2VsZXMgdG8gaGVscCB0YWtlIGNhcmUgb2YgbXkgOTAgeWVhciBvbGQgZ3JhbmRtb3RoZXIuIFNoZSBpcyBteSBiaWdnZXN0IG1vdGl2YXRpb24gdG8gc3RheSBoZWFsdGh5IGFuZCBzdHJvbmcuIEl0IGh1cnQgbWUgdG8gc2VlIHRoYXQgc2hlIHdhcyBiZWRyaWRkZW4sIGFuZCB1bmFibGUgdG8gZW5qb3kgdGhlIHVzdWFsIGRhaWx5IHRhc2tzIHRoYXQgd2UgdGFrZSBmb3IgZ3JhbnRlZC4gU2hlIGtlZXBzIG1lIHBhc3Npb25hdGUgZm9yIG15IG93biBoZWFsdGggYW5kIHRvIGhlbHAgb3RoZXJzIHNsb3cgZG93biB0aGUgYWdpbmcgcHJvY2Vzcy4gSSBoYXZlIGJlZW4gYSBwZXJzb25hbCB0cmFpbmVyIGZvciA1IHllYXJzLiBBZnRlciBiZWluZyBjZXJ0aWZpZWQgd2l0aCBOQVNNIChOYXRpb25hbCBBc3NvY2lhdGlvbiBvZiBTY2llbmNlIE1lZGljaW5lKSBhbmQgdGFraW5nIGFub3RoZXIgY2VydGlmaWNhdGlvbiBjb3Vyc2UgdGhyb3VnaCBXSVRTLiBJIGFkaGVyZSB0byBhIHNjaWVuY2UgYmFzZWQgdHJhaW5pbmcgcHJvZ3JhbSB0YWlsb3JlZCBmb3IgdGhlIGNsaWVudCB0byB1c2UgdGhlaXIgdGltZSBhbmQgZW5lcmd5IGFzIGVmZmljaWVudGx5IGFzIHBvc3NpYmxlLiBPdXIgaGVhbHRoIGlzIG1hZGUgdXAgb2YgbWFueSBkaWZmZXJlbnQgaGFiaXRzLCBJIGJlbGlldmUgaW4gbWFraW5nIHRoZSBwcm9jZXNzIGFzIGR5bmFtaWMgYW5kIGZ1biBhcyBwb3NzaWJsZS4gPC9wPlxuICAgICAgICAgICAgICAgIDwvZGl2PlxuXG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgICAgICAudHJhaW5lcnNTZWN0aW9uIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBMYXRvOyAgICAgICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAudHJhaW5lcnNTZWN0aW9uIC5zaG91dG91dCB7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LXdlaWdodDogOTAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAzMHB4O1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLnRyYWluZXJzU2VjdGlvbiBwIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMjBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC50cmFpbmVyc1NlY3Rpb24gLnN0YWN5SW1hZ2Uge1xuICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDUwJTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcImh0dHA6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD12aWV3JmlkPTEyZnBmTlFwWW9hbmRwV19SX0w1TXgyLThjckh5R01vd1wiKTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTAwdmg7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLnRyYWluZXJzU2VjdGlvbiAuc3RhY3lJbmZvIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA1MCU7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogdG9wO1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogODIwcHgpIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIC50cmFpbmVyc1NlY3Rpb24gLnN0YWN5SW1hZ2Uge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgICAgIC50cmFpbmVyc1NlY3Rpb24gLnN0YWN5SW5mbyB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgVHJhaW5lcnNTZWN0aW9uOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/TrainersSection.js */"));
   }
 
 }

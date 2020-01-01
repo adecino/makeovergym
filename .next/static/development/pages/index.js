@@ -23,28 +23,28 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class BannerFold extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-4042483971" + " " + "bannerFold",
+      className: "jsx-3120178770" + " " + "bannerFold",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-4042483971",
+      className: "jsx-3120178770",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 8
       },
       __self: this
     }, "Sign up for ", __jsx("br", {
-      className: "jsx-4042483971",
+      className: "jsx-3120178770",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 8
       },
       __self: this
     }), " your first week ", __jsx("br", {
-      className: "jsx-4042483971",
+      className: "jsx-3120178770",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 8
@@ -57,9 +57,9 @@ class BannerFold extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "4042483971",
+      id: "3120178770",
       __self: this
-    }, ".bannerFold.jsx-4042483971{background-image:url(\"http://drive.google.com/uc?export=view&id=1YMOEV8jj8nq7vdyGqHx56Pduxu-zLYEe\");height:70vh;background-size:cover;}.bannerFold.jsx-4042483971 h1.jsx-4042483971{margin:0;color:white;text-shadow:-1px 0 black,0 1px black,1px 0 black,0 -1px black;font-size:80px;font-family:Lato;font-weight:900;text-align:left;padding-left:100px;padding-bottom:0px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvQmFubmVyRm9sZC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTNkIsQUFHNkgsQUFNM0YsU0FDRyxZQUNxRCw4REFDbEQsZUFDRSxFQVRMLFlBQ1UsR0FTTixnQkFDQSxHQVRwQixhQVV1QixtQkFDQSxtQkFDdkIiLCJmaWxlIjoiL2hvbWUvamFtaWUvbWFrZW92ZXJneW0vY29tcG9uZW50cy9CYW5uZXJGb2xkLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBTaWduVXBCdXR0b24gZnJvbSAnLi9TaWduVXBCdXR0b24uanMnO1xuXG5jbGFzcyBCYW5uZXJGb2xkIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gKFxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcImJhbm5lckZvbGRcIj5cbiAgICAgICAgICAgICAgICA8aDE+U2lnbiB1cCBmb3IgPGJyLz4geW91ciBmaXJzdCB3ZWVrIDxici8+IEZSRUUhPC9oMT5cbiAgICAgICAgICAgICAgICA8U2lnblVwQnV0dG9uLz5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PiB7YFxuICAgICAgICAgICAgICAgICAgICAuYmFubmVyRm9sZCB7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9dmlldyZpZD0xWU1PRVY4amo4bnE3dmR5R3FIeDU2UGR1eHUtekxZRWVcIik7XG4gICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDcwdmg7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmJhbm5lckZvbGQgaDEge1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1zaGFkb3c6IC0xcHggMCBibGFjaywgMCAxcHggYmxhY2ssIDFweCAwIGJsYWNrLCAwIC0xcHggYmxhY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDgwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogTGF0bztcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAxMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctYm90dG9tOiAwcHg7XG4gICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj4gICAgICAgICAgICAgIFxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgQmFubmVyRm9sZDsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/BannerFold.js */"));
+    }, ".bannerFold.jsx-3120178770{background-image:url(\"http://drive.google.com/uc?export=view&id=1YMOEV8jj8nq7vdyGqHx56Pduxu-zLYEe\");max-width:100%;height:70vh;background-size:cover;}.bannerFold.jsx-3120178770 h1.jsx-3120178770{margin:0;color:white;text-shadow:-1px 0 black,0 1px black,1px 0 black,0 -1px black;font-size:5vw;font-family:Lato;font-weight:900;text-align:left;padding-left:100px;padding-bottom:0px;}@media screen and (max-width:820px){.bannerFold.jsx-3120178770{background-image:url(\"http://drive.google.com/uc?export=view&id=1u7oNggH9pIYbEFbLhIc_N502bjDyWF83\");background-color:black;text-align:left;}.bannerFold.jsx-3120178770 h1.jsx-3120178770{font-size:10vw;padding-left:10px;padding-top:10px;text-align:left;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvQmFubmVyRm9sZC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTNkIsQUFHNkgsQUFPM0YsQUFhK0YsQUFNckYsU0FsQlAsTUFtQlUsTUFsQjJDLFlBbUI1QyxpQkFDRCxnQkFDcEIsaUJBcEJjLGNBQ0csR0FWRixBQW9CWSxjQVRYLENBVkosUUFvQlEsSUFuQkUsR0FVTixTQVVoQixPQVRtQixHQVZ2QixnQkFXdUIsbUJBQ3ZCIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvQmFubmVyRm9sZC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwge0NvbXBvbmVudH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgU2lnblVwQnV0dG9uIGZyb20gJy4vU2lnblVwQnV0dG9uLmpzJztcblxuY2xhc3MgQmFubmVyRm9sZCBleHRlbmRzIENvbXBvbmVudCB7XG4gICAgcmVuZGVyICgpIHtcbiAgICAgICAgcmV0dXJuIChcbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lID0gXCJiYW5uZXJGb2xkXCI+XG4gICAgICAgICAgICAgICAgPGgxPlNpZ24gdXAgZm9yIDxici8+IHlvdXIgZmlyc3Qgd2VlayA8YnIvPiBGUkVFITwvaDE+XG4gICAgICAgICAgICAgICAgPFNpZ25VcEJ1dHRvbi8+XG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeD4ge2BcbiAgICAgICAgICAgICAgICAgICAgLmJhbm5lckZvbGQge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiaHR0cDovL2RyaXZlLmdvb2dsZS5jb20vdWM/ZXhwb3J0PXZpZXcmaWQ9MVlNT0VWOGpqOG5xN3ZkeUdxSHg1NlBkdXh1LXpMWUVlXCIpO1xuICAgICAgICAgICAgICAgICAgICAgICAgbWF4LXdpZHRoOiAxMDAlO1xuICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiA3MHZoO1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5iYW5uZXJGb2xkIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtc2hhZG93OiAtMXB4IDAgYmxhY2ssIDAgMXB4IGJsYWNrLCAxcHggMCBibGFjaywgMCAtMXB4IGJsYWNrO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA1dnc7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogTGF0bztcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAxMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctYm90dG9tOiAwcHg7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA4MjBweCkge1xuICAgICAgICAgICAgICAgICAgICAgICAgLmJhbm5lckZvbGQge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcImh0dHA6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD12aWV3JmlkPTF1N29OZ2dIOXBJWWJFRmJMaEljX041MDJiakR5V0Y4M1wiKTtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjaztcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgICAgICAuYmFubmVyRm9sZCBoMSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAxMHZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLXRvcDogMTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+ICAgICAgICAgICAgICBcbiAgICAgICAgKTtcbiAgICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEJhbm5lckZvbGQ7Il19 */\n/*@ sourceURL=/home/jamie/makeovergym/components/BannerFold.js */"));
   }
 
 }
@@ -215,7 +215,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-2250365353" + " " + "header",
+      className: "jsx-1257524349" + " " + "header",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
@@ -229,14 +229,14 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 8
       },
       __self: this
     }, " MAKEOVER FITNESS")), __jsx("div", {
-      className: "jsx-2250365353" + " " + "menu",
+      className: "jsx-1257524349" + " " + "menu",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 9
@@ -250,7 +250,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 10
@@ -264,7 +264,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 11
@@ -278,7 +278,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 12
@@ -292,16 +292,16 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
       },
       __self: this
     }, __jsx("a", {
-      className: "jsx-2250365353",
+      className: "jsx-1257524349",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 13
       },
       __self: this
     }, " Trainers "))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "2250365353",
+      id: "1257524349",
       __self: this
-    }, ".header.jsx-2250365353{background-color:#404040;padding-top:10px;padding-bottom:15px;text-align:center;font-family:Helvetica;color:white;position:-webkit-sticky;position:sticky;top:0;}.header.jsx-2250365353 h1.jsx-2250365353{font-weight:900;margin-top:0;margin-bottom:0;font-size:100px;display:inline-block;}.header.jsx-2250365353 .menu.jsx-2250365353{font-weight:900;display:inline-block;padding-left:200px;text-align:left;}.header.jsx-2250365353 .menu.jsx-2250365353 p.jsx-2250365353{display:inline-block;width:200px;margin-top:5px;margin-bottom:0px;}.header.jsx-2250365353 .menu.jsx-2250365353 a.jsx-2250365353{color:white;-webkit-text-decoration:none;text-decoration:none;display:inline-block;width:200px;margin-top:5px;margin-bottom:0px;}.header.jsx-2250365353 .menu.jsx-2250365353 a.jsx-2250365353:hover{-webkit-text-decoration:underline;text-decoration:underline;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWM0QixBQUdrRCxBQVVULEFBUUEsQUFPSyxBQU9ULEFBU2MsWUFSTCxJQXRCUixBQVFRLEtBT1QsSUF6QkssSUFXRCxJQWVELElBUEksS0FsQkMsR0FXSixHQWVFLFFBTnZCLElBb0JDLENBNUJ5QixDQVhILEFBK0JHLElBTHpCLE1BUEEsUUFsQjBCLEVBVzFCLENBb0JnQixZQUNHLE9BL0JILFFBZ0NNLElBL0JGLGNBZ0NwQiwwQkEvQlUsTUFDViIsImZpbGUiOiIvaG9tZS9qYW1pZS9tYWtlb3Zlcmd5bS9jb21wb25lbnRzL0hlYWRlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwge0NvbXBvbmVudH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5jbGFzcyBIZWFkZXIgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlclwiPlxuICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+PGgxPiBNQUtFT1ZFUiBGSVRORVNTPC9oMT48L0xpbms+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJtZW51XCI+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvbWVtYmVyc2hpcHNcIj48YT4gTWVtYmVyc2hpcHMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9zY2hlZHVsZVwiPjxhPiBTY2hlZHVsZSA8L2E+PC9MaW5rPlxuICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL2NhbGVuZGFyXCI+PGE+IENhbGVuZGFyIDwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvdHJhaW5lcnNcIj48YT4gVHJhaW5lcnMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDE1cHg7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogSGVsdmV0aWNhO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246IHN0aWNreTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRvcDogMDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTAwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIC5tZW51IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7ICAgXG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDIwMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdFxuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmhlYWRlciAubWVudSBwIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAyMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIgLm1lbnUgYSB7XG4gICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiA1cHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAwcHg7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIC5tZW51IGE6aG92ZXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7XG4gICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgKTtcbiAgICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEhlYWRlcjsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/Header.js */"));
+    }, ".header.jsx-1257524349{background-color:#404040;padding-top:10px;padding-bottom:15px;text-align:center;font-family:Helvetica;color:white;position:-webkit-sticky;position:sticky;top:0;}.header.jsx-1257524349 h1.jsx-1257524349{font-weight:900;margin-top:0;margin-bottom:0;font-size:100px;display:inline-block;}.header.jsx-1257524349 .menu.jsx-1257524349{font-weight:900;display:inline-block;padding-left:200px;text-align:left;}.header.jsx-1257524349 .menu.jsx-1257524349 a.jsx-1257524349{color:white;-webkit-text-decoration:none;text-decoration:none;display:inline-block;width:200px;margin-top:5px;margin-bottom:0px;}.header.jsx-1257524349 .menu.jsx-1257524349 a.jsx-1257524349:hover{-webkit-text-decoration:underline;text-decoration:underline;}@media screen and (max-width:820px){.header.jsx-1257524349 h1.jsx-1257524349{font-size:8vw;text-align:center;}.header.jsx-1257524349 .menu.jsx-1257524349{padding-left:10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;text-align:center;}.header.jsx-1257524349 .menu.jsx-1257524349 a.jsx-1257524349{font-size:3vw;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWM0QixBQUdrRCxBQVVULEFBUUEsQUFPSixBQVNjLEFBS1IsQUFLSSxBQU1KLFlBeEJHLEVBY0MsQUFXdEIsRUF4Q2EsQUFRUSxFQTBCSixPQTVDQSxJQVdELEdBNkJoQixLQXJCbUIsS0FsQkMsR0FXSixXQVNyQixJQWFDLENBckJ5QixDQVhILEFBd0JHLFVBTHpCLFFBbEIwQixFQVcxQixDQWFnQixTQWtCVSxHQWpCUCxPQXhCSCxRQXlCTSxBQWlCbEIsSUF6Q2dCLGNBeUJwQiwwQkF4QlUsTUFDViIsImZpbGUiOiIvaG9tZS9qYW1pZS9tYWtlb3Zlcmd5bS9jb21wb25lbnRzL0hlYWRlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwge0NvbXBvbmVudH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5jbGFzcyBIZWFkZXIgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlclwiPlxuICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+PGgxPiBNQUtFT1ZFUiBGSVRORVNTPC9oMT48L0xpbms+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJtZW51XCI+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvbWVtYmVyc2hpcHNcIj48YT4gTWVtYmVyc2hpcHMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9zY2hlZHVsZVwiPjxhPiBTY2hlZHVsZSA8L2E+PC9MaW5rPlxuICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL2NhbGVuZGFyXCI+PGE+IENhbGVuZGFyIDwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvdHJhaW5lcnNcIj48YT4gVHJhaW5lcnMgPC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDE1cHg7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTogSGVsdmV0aWNhO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246IHN0aWNreTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRvcDogMDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTAwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIC5tZW51IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7ICAgXG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDIwMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdFxuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmhlYWRlciAubWVudSBhIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAyMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDBweDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5oZWFkZXIgLm1lbnUgYTpob3ZlciB7XG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDgyMHB4KSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAuaGVhZGVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDh2dztcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgICAgIC5oZWFkZXIgLm1lbnUge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAgICAgLmhlYWRlciAubWVudSBhIHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDN2dztcbiAgICAgICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgSGVhZGVyOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/Header.js */"));
   }
 
 }
@@ -386,93 +386,79 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class InfoSectionContainer extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-2381729294" + " " + "infoSectionContainer",
+      className: "jsx-3369796704" + " " + "infoSectionContainer",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 6
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-2381729294",
+      className: "jsx-3369796704",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
       },
       __self: this
-    }, "San Marino's", __jsx("br", {
-      className: "jsx-2381729294",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 7
-      },
-      __self: this
-    }), " Most Popular", __jsx("br", {
-      className: "jsx-2381729294",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 7
-      },
-      __self: this
-    }), " Women's Gym"), __jsx("p", {
-      className: "jsx-2381729294" + " " + "shoutout",
+    }, "San Marino's Most Popular Women's Gym"), __jsx("p", {
+      className: "jsx-3369796704" + " " + "shoutout",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 9
       },
       __self: this
     }, "A goal-driven environment for women to achieve greatness"), __jsx("p", {
-      className: "jsx-2381729294",
+      className: "jsx-3369796704",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 10
       },
       __self: this
     }, " We are building a community of lasting friendships and self-growth through education and wellness. "), __jsx("p", {
-      className: "jsx-2381729294" + " " + "shoutout",
+      className: "jsx-3369796704" + " " + "shoutout",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 12
       },
       __self: this
     }, "A membership package that works for everyone"), __jsx("p", {
-      className: "jsx-2381729294",
+      className: "jsx-3369796704",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 13
       },
       __self: this
     }, " We have different packages and memberships including exercise classes, self defense, personal training, open gym, a referral program of specialists in the area towards your needs, and a total body makeover with stylists, hair, and make up!  "), __jsx("p", {
-      className: "jsx-2381729294" + " " + "shoutout",
+      className: "jsx-3369796704" + " " + "shoutout",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 15
       },
       __self: this
     }, "The Most Healthy Challenge"), __jsx("p", {
-      className: "jsx-2381729294",
+      className: "jsx-3369796704",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 16
       },
       __self: this
     }, " Every 2 months you can buy in to the Most Healthy Challenge to win one of the 10 prizes!  The ultimate goal is to help you be healthy in a fun way. "), __jsx("p", {
-      className: "jsx-2381729294" + " " + "shoutout",
+      className: "jsx-3369796704" + " " + "shoutout",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 18
       },
       __self: this
     }, "Personal Goal Check-Ins"), __jsx("p", {
-      className: "jsx-2381729294",
+      className: "jsx-3369796704",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 19
       },
       __self: this
     }, " Every 6 weeks there is a free 1:1 meeting with the owners or trainers to make sure you are moving towards your personal goals. Free measurements and changing your membership based on your needs. "), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "2381729294",
+      id: "3369796704",
       __self: this
-    }, ".infoSectionContainer.jsx-2381729294{float:right;width:50%;background-color:#404040;text-align:left;font-family:Lato;color:white;margin-top:0px;}.infoSectionContainer.jsx-2381729294 h1.jsx-2381729294{font-weight:900;margin-top:0px;margin-bottom:0;font-size:50px;padding-right:100px;padding-left:20px;padding-top:5px;line-height:60px;}.infoSectionContainer.jsx-2381729294 p.jsx-2381729294{padding-left:20px;}.infoSectionContainer.jsx-2381729294 .shoutout.jsx-2381729294{font-weight:700;padding-left:20px;font-size:20px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSW5mb1NlY3Rpb25Db250YWluZXIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBbUJ5QixBQUdpQyxBQVVJLEFBV0UsQUFJRixZQXhCTixJQVVLLEFBZUcsRUFKdEIsSUFwQjZCLFNBVVQsR0FlRCxhQXhCQyxBQVVELEVBZW5CLGFBZHdCLENBVkgsaUJBQ0wsRUFVTSxVQVRILFFBVUMsT0FUcEIsU0FVcUIsaUJBQ3JCIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSW5mb1NlY3Rpb25Db250YWluZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHtDb21wb25lbnR9IGZyb20gXCJyZWFjdFwiO1xuXG5jbGFzcyBJbmZvU2VjdGlvbkNvbnRhaW5lciBleHRlbmRzIENvbXBvbmVudCB7XG4gICAgcmVuZGVyICgpIHtcbiAgICAgICAgcmV0dXJuIChcbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lID0gXCJpbmZvU2VjdGlvbkNvbnRhaW5lclwiPlxuICAgICAgICAgICAgICAgIDxoMT5TYW4gTWFyaW5vJ3M8YnIvPiBNb3N0IFBvcHVsYXI8YnIvPiBXb21lbidzIEd5bTwvaDE+XG5cbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWUgPSBcInNob3V0b3V0XCI+QSBnb2FsLWRyaXZlbiBlbnZpcm9ubWVudCBmb3Igd29tZW4gdG8gYWNoaWV2ZSBncmVhdG5lc3M8L3A+XG4gICAgICAgICAgICAgICAgPHA+IFdlIGFyZSBidWlsZGluZyBhIGNvbW11bml0eSBvZiBsYXN0aW5nIGZyaWVuZHNoaXBzIGFuZCBzZWxmLWdyb3d0aCB0aHJvdWdoIGVkdWNhdGlvbiBhbmQgd2VsbG5lc3MuIDwvcD5cblxuICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZSA9IFwic2hvdXRvdXRcIj5BIG1lbWJlcnNoaXAgcGFja2FnZSB0aGF0IHdvcmtzIGZvciBldmVyeW9uZTwvcD5cbiAgICAgICAgICAgICAgICA8cD4gV2UgaGF2ZSBkaWZmZXJlbnQgcGFja2FnZXMgYW5kIG1lbWJlcnNoaXBzIGluY2x1ZGluZyBleGVyY2lzZSBjbGFzc2VzLCBzZWxmIGRlZmVuc2UsIHBlcnNvbmFsIHRyYWluaW5nLCBvcGVuIGd5bSwgYSByZWZlcnJhbCBwcm9ncmFtIG9mIHNwZWNpYWxpc3RzIGluIHRoZSBhcmVhIHRvd2FyZHMgeW91ciBuZWVkcywgYW5kIGEgdG90YWwgYm9keSBtYWtlb3ZlciB3aXRoIHN0eWxpc3RzLCBoYWlyLCBhbmQgbWFrZSB1cCEgIDwvcD5cbiAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWUgPSBcInNob3V0b3V0XCI+VGhlIE1vc3QgSGVhbHRoeSBDaGFsbGVuZ2U8L3A+XG4gICAgICAgICAgICAgICAgPHA+IEV2ZXJ5IDIgbW9udGhzIHlvdSBjYW4gYnV5IGluIHRvIHRoZSBNb3N0IEhlYWx0aHkgQ2hhbGxlbmdlIHRvIHdpbiBvbmUgb2YgdGhlIDEwIHByaXplcyEgIFRoZSB1bHRpbWF0ZSBnb2FsIGlzIHRvIGhlbHAgeW91IGJlIGhlYWx0aHkgaW4gYSBmdW4gd2F5LiA8L3A+XG4gICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lID0gXCJzaG91dG91dFwiPlBlcnNvbmFsIEdvYWwgQ2hlY2stSW5zPC9wPlxuICAgICAgICAgICAgICAgIDxwPiBFdmVyeSA2IHdlZWtzIHRoZXJlIGlzIGEgZnJlZSAxOjEgbWVldGluZyB3aXRoIHRoZSBvd25lcnMgb3IgdHJhaW5lcnMgdG8gbWFrZSBzdXJlIHlvdSBhcmUgbW92aW5nIHRvd2FyZHMgeW91ciBwZXJzb25hbCBnb2Fscy4gRnJlZSBtZWFzdXJlbWVudHMgYW5kIGNoYW5naW5nIHlvdXIgbWVtYmVyc2hpcCBiYXNlZCBvbiB5b3VyIG5lZWRzLiA8L3A+XG4gICAgICAgICAgICA8c3R5bGUganN4PiB7YFxuICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciB7XG4gICAgICAgICAgICAgICAgICAgIGZsb2F0OiByaWdodDtcbiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDUwJTtcbiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDtcbiAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IExhdG87XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luLXRvcDogMHB4O1xuICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciBoMSB7XG4gICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDBweDtcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA1MHB4O1xuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxMDBweDtcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4O1xuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLXRvcDogNXB4O1xuICAgICAgICAgICAgICAgICAgICBsaW5lLWhlaWdodDogNjBweDtcbiAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAuaW5mb1NlY3Rpb25Db250YWluZXIgcCB7XG4gICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMjBweDtcbiAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAuaW5mb1NlY3Rpb25Db250YWluZXIgLnNob3V0b3V0IHtcbiAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDcwMDtcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4O1xuICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICk7XG4gICAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBJbmZvU2VjdGlvbkNvbnRhaW5lcjsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/InfoSectionContainer.js */"));
+    }, ".infoSectionContainer.jsx-3369796704{float:right;width:50%;background-color:#404040;text-align:left;font-family:Lato;color:white;margin-top:0px;}.infoSectionContainer.jsx-3369796704 h1.jsx-3369796704{font-weight:900;margin-top:0vh;margin-bottom:0vh;font-size:4vw;padding-left:1.5vw;padding-top:5px;line-height:9vh;}.infoSectionContainer.jsx-3369796704 p.jsx-3369796704{padding-left:1.5vw;font-size:1.25vw;}.infoSectionContainer.jsx-3369796704 .shoutout.jsx-3369796704{font-weight:700;padding-left:1.5vw;font-size:20px;}@media screen and (max-width:820px){.infoSectionContainer.jsx-3369796704{width:100%;}.infoSectionContainer.jsx-3369796704 h1.jsx-3369796704{font-size:8vw;line-height:normal;}.infoSectionContainer.jsx-3369796704 .shoutout.jsx-3369796704{font-size:5vw;margin-right:5vw;}.infoSectionContainer.jsx-3369796704 p.jsx-3369796704{font-size:4vw;margin-right:5vw;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSW5mb1NlY3Rpb25Db250YWluZXIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBbUJ5QixBQUdpQyxBQVVJLEFBVUcsQUFLSCxBQU9ELEFBSUcsQUFLQSxBQUtBLFdBYmxCLENBaENVLEVBb0NhLEFBS0YsQUFLQSxFQXBDTixBQWVJLEdBTEYsR0FuQlEsU0FVUCxBQStCbEIsQUFLQSxFQVZBLEVBWGUsQ0FMbkIsV0FuQm9CLEVBVUYsQ0FlbEIsYUF4QnFCLEFBVUUsaUJBVFAsRUFVSSxVQVRELE1BVUMsU0FUcEIsT0FVQSIsImZpbGUiOiIvaG9tZS9qYW1pZS9tYWtlb3Zlcmd5bS9jb21wb25lbnRzL0luZm9TZWN0aW9uQ29udGFpbmVyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcblxuY2xhc3MgSW5mb1NlY3Rpb25Db250YWluZXIgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9IFwiaW5mb1NlY3Rpb25Db250YWluZXJcIj5cbiAgICAgICAgICAgICAgICA8aDE+U2FuIE1hcmlubydzIE1vc3QgUG9wdWxhciBXb21lbidzIEd5bTwvaDE+XG5cbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWUgPSBcInNob3V0b3V0XCI+QSBnb2FsLWRyaXZlbiBlbnZpcm9ubWVudCBmb3Igd29tZW4gdG8gYWNoaWV2ZSBncmVhdG5lc3M8L3A+XG4gICAgICAgICAgICAgICAgPHA+IFdlIGFyZSBidWlsZGluZyBhIGNvbW11bml0eSBvZiBsYXN0aW5nIGZyaWVuZHNoaXBzIGFuZCBzZWxmLWdyb3d0aCB0aHJvdWdoIGVkdWNhdGlvbiBhbmQgd2VsbG5lc3MuIDwvcD5cblxuICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZSA9IFwic2hvdXRvdXRcIj5BIG1lbWJlcnNoaXAgcGFja2FnZSB0aGF0IHdvcmtzIGZvciBldmVyeW9uZTwvcD5cbiAgICAgICAgICAgICAgICA8cD4gV2UgaGF2ZSBkaWZmZXJlbnQgcGFja2FnZXMgYW5kIG1lbWJlcnNoaXBzIGluY2x1ZGluZyBleGVyY2lzZSBjbGFzc2VzLCBzZWxmIGRlZmVuc2UsIHBlcnNvbmFsIHRyYWluaW5nLCBvcGVuIGd5bSwgYSByZWZlcnJhbCBwcm9ncmFtIG9mIHNwZWNpYWxpc3RzIGluIHRoZSBhcmVhIHRvd2FyZHMgeW91ciBuZWVkcywgYW5kIGEgdG90YWwgYm9keSBtYWtlb3ZlciB3aXRoIHN0eWxpc3RzLCBoYWlyLCBhbmQgbWFrZSB1cCEgIDwvcD5cbiAgICAgICAgICAgICAgICBcbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWUgPSBcInNob3V0b3V0XCI+VGhlIE1vc3QgSGVhbHRoeSBDaGFsbGVuZ2U8L3A+XG4gICAgICAgICAgICAgICAgPHA+IEV2ZXJ5IDIgbW9udGhzIHlvdSBjYW4gYnV5IGluIHRvIHRoZSBNb3N0IEhlYWx0aHkgQ2hhbGxlbmdlIHRvIHdpbiBvbmUgb2YgdGhlIDEwIHByaXplcyEgIFRoZSB1bHRpbWF0ZSBnb2FsIGlzIHRvIGhlbHAgeW91IGJlIGhlYWx0aHkgaW4gYSBmdW4gd2F5LiA8L3A+XG4gICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lID0gXCJzaG91dG91dFwiPlBlcnNvbmFsIEdvYWwgQ2hlY2stSW5zPC9wPlxuICAgICAgICAgICAgICAgIDxwPiBFdmVyeSA2IHdlZWtzIHRoZXJlIGlzIGEgZnJlZSAxOjEgbWVldGluZyB3aXRoIHRoZSBvd25lcnMgb3IgdHJhaW5lcnMgdG8gbWFrZSBzdXJlIHlvdSBhcmUgbW92aW5nIHRvd2FyZHMgeW91ciBwZXJzb25hbCBnb2Fscy4gRnJlZSBtZWFzdXJlbWVudHMgYW5kIGNoYW5naW5nIHlvdXIgbWVtYmVyc2hpcCBiYXNlZCBvbiB5b3VyIG5lZWRzLiA8L3A+XG4gICAgICAgICAgICA8c3R5bGUganN4PiB7YFxuICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciB7XG4gICAgICAgICAgICAgICAgICAgIGZsb2F0OiByaWdodDtcbiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDUwJTtcbiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDtcbiAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IExhdG87XG4gICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luLXRvcDogMHB4O1xuICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciBoMSB7XG4gICAgICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDB2aDtcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMHZoO1xuICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDR2dztcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAxLjV2dztcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy10b3A6IDVweDtcbiAgICAgICAgICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDl2aDtcbiAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAuaW5mb1NlY3Rpb25Db250YWluZXIgcCB7XG4gICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMS41dnc7XG4gICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMS4yNXZ3O1xuICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciAuc2hvdXRvdXQge1xuICAgICAgICAgICAgICAgICAgICBmb250LXdlaWdodDogNzAwO1xuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDEuNXZ3O1xuICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogODIwcHgpIHtcbiAgICAgICAgICAgICAgICAgICAgLmluZm9TZWN0aW9uQ29udGFpbmVyIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLmluZm9TZWN0aW9uQ29udGFpbmVyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogOHZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgbGluZS1oZWlnaHQ6IG5vcm1hbDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciAuc2hvdXRvdXQge1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA1dnc7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tcmlnaHQ6IDV2dztcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5pbmZvU2VjdGlvbkNvbnRhaW5lciBwIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogNHZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLXJpZ2h0OiA1dnc7XG4gICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgKTtcbiAgICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEluZm9TZWN0aW9uQ29udGFpbmVyOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/InfoSectionContainer.js */"));
   }
 
 }
@@ -502,16 +488,16 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class InfoSectionImage extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-1861832472" + " " + "infoSectionImage",
+      className: "jsx-4172602146" + " " + "infoSectionImage",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 6
       },
       __self: this
     }, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "1861832472",
+      id: "4172602146",
       __self: this
-    }, ".infoSectionImage.jsx-1861832472{display:inline-block;width:50%;background-image:url(\"http://drive.google.com/uc?export=view&id=1Y2H2DV__ISTvHG-pyIq9xWsUoQAJrWrE\");height:100vh;background-size:cover;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSW5mb1NlY3Rpb25JbWFnZS5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFNNEIsQUFJOEMscUJBQ1gsVUFDMEYsb0dBQ3ZGLGFBQ1Msc0JBQzFCIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSW5mb1NlY3Rpb25JbWFnZS5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwge0NvbXBvbmVudH0gZnJvbSBcInJlYWN0XCI7XG5cbmNsYXNzIEluZm9TZWN0aW9uSW1hZ2UgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9IFwiaW5mb1NlY3Rpb25JbWFnZVwiPlxuICAgICAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICAgICAgICAgICAgLmluZm9TZWN0aW9uSW1hZ2Uge1xuICAgICAgICAgICAgICAgICAgICAgICAgLypiYWNrZ3JvdW5kLWNvbG9yOiAjZTA1Mjc1OyovXG4gICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogNTAlO1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiaHR0cDovL2RyaXZlLmdvb2dsZS5jb20vdWM/ZXhwb3J0PXZpZXcmaWQ9MVkySDJEVl9fSVNUdkhHLXB5SXE5eFdzVW9RQUpyV3JFXCIpO1xuICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxMDB2aDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgXG4gICAgICAgICk7XG4gICAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBJbmZvU2VjdGlvbkltYWdlOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/InfoSectionImage.js */"));
+    }, ".infoSectionImage.jsx-4172602146{display:inline-block;width:50%;background-image:url(\"http://drive.google.com/uc?export=view&id=1Y2H2DV__ISTvHG-pyIq9xWsUoQAJrWrE\");height:100vh;background-size:cover;}@media screen and (max-width:820px){.infoSectionImage.jsx-4172602146{background-image:none;background-color:black;display:none;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvSW5mb1NlY3Rpb25JbWFnZS5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFNNEIsQUFJOEMsQUFTSyxxQkFSaEIsQ0FTaUIsU0FSeUUsY0FTbkYsYUFDakIseUVBVGEsYUFDUyxzQkFDMUIiLCJmaWxlIjoiL2hvbWUvamFtaWUvbWFrZW92ZXJneW0vY29tcG9uZW50cy9JbmZvU2VjdGlvbkltYWdlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcblxuY2xhc3MgSW5mb1NlY3Rpb25JbWFnZSBleHRlbmRzIENvbXBvbmVudCB7XG4gICAgcmVuZGVyICgpIHtcbiAgICAgICAgcmV0dXJuIChcbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lID0gXCJpbmZvU2VjdGlvbkltYWdlXCI+XG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgICAgICAuaW5mb1NlY3Rpb25JbWFnZSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAvKmJhY2tncm91bmQtY29sb3I6ICNlMDUyNzU7Ki9cbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA1MCU7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9dmlldyZpZD0xWTJIMkRWX19JU1R2SEctcHlJcTl4V3NVb1FBSnJXckVcIik7XG4gICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMHZoO1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDgyMHB4KSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAuaW5mb1NlY3Rpb25JbWFnZSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogbm9uZTtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjaztcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBub25lO1xuICAgICAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgIFxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgSW5mb1NlY3Rpb25JbWFnZTsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/InfoSectionImage.js */"));
   }
 
 }
@@ -606,30 +592,23 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class PromoBar extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-3093279439" + " " + "promoBar",
+      className: "jsx-929910637" + " " + "promoBar",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 6
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-3093279439",
+      className: "jsx-929910637",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
       },
       __self: this
-    }, " Empowering women through ", __jsx("br", {
-      className: "jsx-3093279439",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 7
-      },
+    }, " Empowering women through health and fitness "), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+      id: "929910637",
       __self: this
-    }), " health and fitness "), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "3093279439",
-      __self: this
-    }, ".promoBar.jsx-3093279439{height:15vh;background-size:cover;background-color:#e05275;font-family:Lato;font-weight:900;}.promoBar.jsx-3093279439 h1.jsx-3093279439{margin:0;color:white;font-size:50px;text-align:center;padding-top:10px;vertical-align:middle;font-size:5vh;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvUHJvbW9CYXIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBTzRCLEFBR3FDLEFBUUosU0FDSSxHQVJVLFNBU1AsYUFSVSxFQVNQLGtCQUNELEtBVEEsWUFVSyxLQVROLGdCQUNwQixDQVNrQixjQUNsQiIsImZpbGUiOiIvaG9tZS9qYW1pZS9tYWtlb3Zlcmd5bS9jb21wb25lbnRzL1Byb21vQmFyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcblxuY2xhc3MgUHJvbW9CYXIgZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9IFwicHJvbW9CYXJcIj5cbiAgICAgICAgICAgICAgICA8aDE+IEVtcG93ZXJpbmcgd29tZW4gdGhyb3VnaCA8YnIvPiBoZWFsdGggYW5kIGZpdG5lc3MgPC9oMT5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5wcm9tb0JhciB7XG4gICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDE1dmg7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2UwNTI3NTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBMYXRvO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDkwMDtcbiAgICAgICAgICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICAgICAgICAgIC5wcm9tb0JhciBoMSB7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW46MDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogNTBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogNXZoO1xuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICk7XG4gICAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBQcm9tb0JhcjsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/PromoBar.js */"));
+    }, ".promoBar.jsx-929910637{height:15vh;background-size:cover;background-color:#e05275;font-family:Lato;font-weight:900;}.promoBar.jsx-929910637 h1.jsx-929910637{margin:0;color:white;text-align:center;padding-top:3vh;vertical-align:middle;font-size:2.5vw;}@media screen and (max-width:820px){.promoBar.jsx-929910637 h1.jsx-929910637{font-size:7vw;padding-left:2vw;padding-right:2vw;padding-top:3vh;text-align:center;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvUHJvbW9CYXIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBTzRCLEFBR3FDLEFBUUosQUFVVSxTQVROLEdBUlUsRUFrQkQsT0FUSCxVQVVJLEdBbEJHLEtBU1QsVUFVSSxNQVRFLElBVEwsTUFtQkssV0FsQk4sQ0FTQSxNQVVoQixTQWxCSixDQVNBIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvUHJvbW9CYXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHtDb21wb25lbnR9IGZyb20gXCJyZWFjdFwiO1xuXG5jbGFzcyBQcm9tb0JhciBleHRlbmRzIENvbXBvbmVudCB7XG4gICAgcmVuZGVyICgpIHtcbiAgICAgICAgcmV0dXJuIChcbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lID0gXCJwcm9tb0JhclwiPlxuICAgICAgICAgICAgICAgIDxoMT4gRW1wb3dlcmluZyB3b21lbiB0aHJvdWdoIGhlYWx0aCBhbmQgZml0bmVzcyA8L2gxPlxuICAgICAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICAgICAgICAgICAgLnByb21vQmFyIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTV2aDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZTA1Mjc1O1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IExhdG87XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LXdlaWdodDogOTAwO1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLnByb21vQmFyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjowO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy10b3A6IDN2aDtcbiAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDIuNXZ3O1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogODIwcHgpIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIC5wcm9tb0JhciBoMSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA3dnc7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAydnc7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMnZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAzdmg7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICk7XG4gICAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBQcm9tb0JhcjsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/PromoBar.js */"));
   }
 
 }
@@ -659,23 +638,23 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 class SignUpBar extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-2665916296" + " " + "signUpBar",
+      className: "jsx-1365645731" + " " + "signUpBar",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 6
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-2665916296",
+      className: "jsx-1365645731",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
       },
       __self: this
     }, "Click Here to Get a FREE One Week Trial!"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "2665916296",
+      id: "1365645731",
       __self: this
-    }, ".signUpBar.jsx-2665916296{background-size:cover;background-color:#e05275;}.signUpBar.jsx-2665916296 h1.jsx-2665916296{font-family:Lato;font-weight:900;margin:0;color:white;font-size:50px;text-align:center;padding-top:10px;padding-bottom:20px;vertical-align:middle;font-size:5vh;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvU2lnblVwQmFyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQU80QixBQUcrQyxBQUtMLGlCQUNELEtBTFMsV0FNakIsU0FDSSxLQU5oQixPQU9tQixlQUNHLGtCQUNELGlCQUNHLG9CQUNFLHNCQUNSLGNBQ2xCIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvU2lnblVwQmFyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcblxuY2xhc3MgU2lnblVwQmFyIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gKFxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcInNpZ25VcEJhclwiPlxuICAgICAgICAgICAgICAgIDxoMT5DbGljayBIZXJlIHRvIEdldCBhIEZSRUUgT25lIFdlZWsgVHJpYWwhPC9oMT5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5zaWduVXBCYXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlMDUyNzU7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuc2lnblVwQmFyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBMYXRvO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDkwMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjowO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA1MHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy10b3A6IDEwcHg7XG4gICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWJvdHRvbTogMjBweDsgICBcbiAgICAgICAgICAgICAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDV2aDtcbiAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgU2lnblVwQmFyOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/SignUpBar.js */"));
+    }, ".signUpBar.jsx-1365645731{background-size:cover;background-color:#e05275;}.signUpBar.jsx-1365645731 h1.jsx-1365645731{font-family:Lato;font-weight:900;margin:0;color:white;font-size:2.5vw;text-align:center;padding-top:10px;padding-bottom:20px;vertical-align:middle;font-size:5vh;}@media screen and (max-width:820px){.signUpBar.jsx-1365645731 h1.jsx-1365645731{font-size:7vw;padding-left:2vw;padding-right:2vw;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvU2lnblVwQmFyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQU80QixBQUcrQyxBQUtMLEFBY0MsY0FDRyxHQWRMLEtBTFMsU0FvQkgsRUFkZCxTQUNJLEtBTmhCLEVBb0JJLEtBYmdCLGdCQUNFLGtCQUNELGlCQUNHLG9CQUNFLHNCQUNSLGNBQ2xCIiwiZmlsZSI6Ii9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvU2lnblVwQmFyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tIFwicmVhY3RcIjtcblxuY2xhc3MgU2lnblVwQmFyIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gKFxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcInNpZ25VcEJhclwiPlxuICAgICAgICAgICAgICAgIDxoMT5DbGljayBIZXJlIHRvIEdldCBhIEZSRUUgT25lIFdlZWsgVHJpYWwhPC9oMT5cbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgICAgICAgIC5zaWduVXBCYXIge1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlMDUyNzU7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICAuc2lnblVwQmFyIGgxIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBMYXRvO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDkwMDtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjowO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAyLjV2dztcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDIwcHg7ICAgXG4gICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA1dmg7XG4gICAgICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA4MjBweCkge1xuICAgICAgICAgICAgICAgICAgICAgICAgLnNpZ25VcEJhciBoMSB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiA3dnc7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAydnc7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMnZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICk7XG4gICAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBTaWduVXBCYXI7Il19 */\n/*@ sourceURL=/home/jamie/makeovergym/components/SignUpBar.js */"));
   }
 
 }
@@ -697,32 +676,41 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/home/jamie/makeovergym/components/SignUpButton.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
+
 class SignUpButton extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   render() {
     return __jsx("div", {
-      className: "jsx-2297718016" + " " + "signUpButton",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 6
-      },
-      __self: this
-    }, __jsx("a", {
-      href: "http://google.com",
-      className: "jsx-2297718016" + " " + "button1",
+      className: "jsx-1233649487" + " " + "signUpButton",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 7
       },
       __self: this
-    }, "SEE THE SCHEDULE"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "2297718016",
+    }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      href: "/schedule",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 8
+      },
       __self: this
-    }, ".signUpButton.jsx-2297718016 a.button1.jsx-2297718016{display:inline-block;padding:20px 50px 20px 50px;border:0.1em solid #FFFFFF;margin:0 0.3em 0.3em 0;border-radius:0.12em;box-sizing:border-box;-webkit-text-decoration:none;text-decoration:none;font-family:'Roboto',sans-serif;font-weight:300;color:#FFFFFF;text-align:center;-webkit-transition:all 0.2s;transition:all 0.2s;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin-left:100px;background-color:#e05275;}.signUpButton.jsx-2297718016 a.button1.jsx-2297718016:hover{color:#e05275;background-color:#FFFFFF;border:#e05275;}@media all and (max-width:30em){a.button1.jsx-2297718016{display:block;margin:0.4em auto;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvU2lnblVwQnV0dG9uLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQU80QixBQUc2QyxBQWtCUCxBQU9BLGNBTlcsQUFPUCxPQXpCVSxXQTBCM0IsT0FQZSxVQWxCVyxLQW1COUIsc0JBbEIwQix1QkFDRixxQkFDRSxzQkFDRixrREFDVyxnQ0FDaEIsZ0JBQ0YsY0FDSSxrQkFDRyxnREFDRyxtR0FDTCxrQkFDTyx5QkFDekIiLCJmaWxlIjoiL2hvbWUvamFtaWUvbWFrZW92ZXJneW0vY29tcG9uZW50cy9TaWduVXBCdXR0b24uanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHtDb21wb25lbnR9IGZyb20gXCJyZWFjdFwiO1xuXG5jbGFzcyBTaWduVXBCdXR0b24gZXh0ZW5kcyBDb21wb25lbnQge1xuICAgIHJlbmRlciAoKSB7XG4gICAgICAgIHJldHVybiAoXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9IFwic2lnblVwQnV0dG9uXCI+XG4gICAgICAgICAgICAgICAgPGEgaHJlZj1cImh0dHA6Ly9nb29nbGUuY29tXCIgY2xhc3NOYW1lPVwiYnV0dG9uMVwiPlNFRSBUSEUgU0NIRURVTEU8L2E+XG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgICAgICAuc2lnblVwQnV0dG9uIGEuYnV0dG9uMXtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6aW5saW5lLWJsb2NrO1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzoyMHB4IDUwcHggMjBweCA1MHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOjAuMWVtIHNvbGlkICNGRkZGRkY7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW46MCAwLjNlbSAwLjNlbSAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyLXJhZGl1czowLjEyZW07XG4gICAgICAgICAgICAgICAgICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOm5vbmU7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTonUm9ib3RvJyxzYW5zLXNlcmlmO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6MzAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6I0ZGRkZGRjtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246Y2VudGVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnM7XG4gICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1sZWZ0OiAxMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlMDUyNzU7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLnNpZ25VcEJ1dHRvbiBhLmJ1dHRvbjE6aG92ZXJ7XG4gICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjojZTA1Mjc1O1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjojRkZGRkZGO1xuICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOiAjZTA1Mjc1O1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgQG1lZGlhIGFsbCBhbmQgKG1heC13aWR0aDozMGVtKXtcbiAgICAgICAgICAgICAgICAgICAgICAgIGEuYnV0dG9uMXtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6YmxvY2s7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW46MC40ZW0gYXV0bztcbiAgICAgICAgICAgICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgICAgICAgfSBcbiAgICAgICAgICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgICAgICA8L2Rpdj4gICAgICAgICAgICAgIFxuICAgICAgICApO1xuICAgIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgU2lnblVwQnV0dG9uOyJdfQ== */\n/*@ sourceURL=/home/jamie/makeovergym/components/SignUpButton.js */"));
+    }, __jsx("a", {
+      className: "jsx-1233649487" + " " + "button1",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 8
+      },
+      __self: this
+    }, " SCHEDULE ")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+      id: "1233649487",
+      __self: this
+    }, ".signUpButton.jsx-1233649487 a.button1.jsx-1233649487{display:inline-block;padding:20px 50px 20px 50px;border:0.1em solid #FFFFFF;margin:0 0.3em 0.3em 0;border-radius:0.12em;box-sizing:border-box;-webkit-text-decoration:none;text-decoration:none;font-family:'Roboto',sans-serif;font-weight:300;color:#FFFFFF;text-align:center;-webkit-transition:all 0.2s;transition:all 0.2s;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin-left:100px;background-color:#e05275;}.signUpButton.jsx-1233649487 a.button1.jsx-1233649487:hover{color:#e05275;background-color:#FFFFFF;border:#e05275;}@media screen and (max-width:820px){.signUpButton.jsx-1233649487 a.button1.jsx-1233649487{margin-right:auto;margin-left:2vw;width:40vw;height:5vh;font-size:4vw;padding-left:1vw;padding-right:1vw;padding-top:1vh;padding-bottom:1vh;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2phbWllL21ha2VvdmVyZ3ltL2NvbXBvbmVudHMvU2lnblVwQnV0dG9uLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVE0QixBQUc2QyxBQWtCUCxBQU9TLGNBTkUsSUFPSixHQXpCTyxhQTBCWixLQVBBLE1BUUEsSUExQlcsS0FtQjlCLEVBUXNCLGNBQ0csTUEzQkMsV0E0QkEsWUEzQkYsTUE0QkEsZUEzQkUsQ0E0QkMsbUJBQ3ZCLEVBNUJvQixrREFDVyxnQ0FDaEIsZ0JBQ0YsY0FDSSxrQkFDRyxnREFDRyxtR0FDTCxrQkFDTyx5QkFDekIiLCJmaWxlIjoiL2hvbWUvamFtaWUvbWFrZW92ZXJneW0vY29tcG9uZW50cy9TaWduVXBCdXR0b24uanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHtDb21wb25lbnR9IGZyb20gXCJyZWFjdFwiO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuY2xhc3MgU2lnblVwQnV0dG9uIGV4dGVuZHMgQ29tcG9uZW50IHtcbiAgICByZW5kZXIgKCkge1xuICAgICAgICByZXR1cm4gKFxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWUgPSBcInNpZ25VcEJ1dHRvblwiPlxuICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvc2NoZWR1bGVcIj48YSBjbGFzc05hbWU9XCJidXR0b24xXCI+IFNDSEVEVUxFIDwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAgICAgICAgICAgICAuc2lnblVwQnV0dG9uIGEuYnV0dG9uMXtcbiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6aW5saW5lLWJsb2NrO1xuICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzoyMHB4IDUwcHggMjBweCA1MHB4O1xuICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOjAuMWVtIHNvbGlkICNGRkZGRkY7XG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW46MCAwLjNlbSAwLjNlbSAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyLXJhZGl1czowLjEyZW07XG4gICAgICAgICAgICAgICAgICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOm5vbmU7XG4gICAgICAgICAgICAgICAgICAgICAgICBmb250LWZhbWlseTonUm9ib3RvJyxzYW5zLXNlcmlmO1xuICAgICAgICAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6MzAwO1xuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6I0ZGRkZGRjtcbiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246Y2VudGVyO1xuICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnM7XG4gICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1sZWZ0OiAxMDBweDtcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlMDUyNzU7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgLnNpZ25VcEJ1dHRvbiBhLmJ1dHRvbjE6aG92ZXJ7XG4gICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjojZTA1Mjc1O1xuICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjojRkZGRkZGO1xuICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOiAjZTA1Mjc1O1xuICAgICAgICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogODIwcHgpIHtcbiAgICAgICAgICAgICAgICAgICAgICAgIC5zaWduVXBCdXR0b24gYS5idXR0b24xe1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi1yaWdodDogYXV0bztcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tbGVmdDogMnZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiA0MHZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogNXZoO1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogNHZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMXZ3O1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDF2dztcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLXRvcDogMXZoO1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmctYm90dG9tOiAxdmg7XG4gICAgICAgICAgICAgICAgICAgICAgICB9XG4gICAgICAgICAgICAgICAgICAgIH0gXG4gICAgICAgICAgICAgICAgYH08L3N0eWxlPlxuICAgICAgICAgICAgPC9kaXY+ICAgICAgICAgICAgICBcbiAgICAgICAgKTtcbiAgICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IFNpZ25VcEJ1dHRvbjsiXX0= */\n/*@ sourceURL=/home/jamie/makeovergym/components/SignUpButton.js */"));
   }
 
 }
@@ -8655,7 +8643,7 @@ class indexPage extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!*****************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fjamie%2Fmakeovergym%2Fpages%2Findex.js ***!
   \*****************************************************************************************************************/
@@ -8678,5 +8666,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

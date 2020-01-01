@@ -4,7 +4,7 @@ class PromoBar extends Component {
     render () {
         return (
             <div className = "promoBar">
-                <h1> Empowering women through <br/> health and fitness </h1>
+                <h1> Empowering women through health and fitness </h1>
                 <style jsx>{`
                     .promoBar {
                         height: 15vh;
@@ -17,11 +17,20 @@ class PromoBar extends Component {
                     .promoBar h1 {
                         margin:0;
                         color: white;
-                        font-size: 50px;
                         text-align: center;
-                        padding-top: 10px;
+                        padding-top: 3vh;
                         vertical-align: middle;
-                        font-size: 5vh;
+                        font-size: 2.5vw;
+                    }
+
+                    @media screen and (max-width: 820px) {
+                        .promoBar h1 {
+                            font-size: 7vw;
+                            padding-left: 2vw;
+                            padding-right: 2vw;
+                            padding-top: 3vh;
+                            text-align: center;
+                        }
                     }
                 `}</style>
             </div>

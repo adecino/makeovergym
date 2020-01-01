@@ -16,12 +16,20 @@ class SignUpBar extends Component {
                         font-weight: 900;
                         margin:0;
                         color: white;
-                        font-size: 50px;
+                        font-size: 2.5vw;
                         text-align: center;
                         padding-top: 10px;
                         padding-bottom: 20px;   
                         vertical-align: middle;
                         font-size: 5vh;
+                    }
+
+                    @media screen and (max-width: 820px) {
+                        .signUpBar h1 {
+                            font-size: 7vw;
+                            padding-left: 2vw;
+                            padding-right: 2vw;
+                        }
                     }
                 `}</style>
             </div>
