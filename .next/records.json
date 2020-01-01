@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static/runtime/polyfills.js": 3,
+      "static/wbindynrCYCi1JajJ1BR3/pages/_app.js": 4,
+      "static/wbindynrCYCi1JajJ1BR3/pages/_error.js": 5,
+      "static/wbindynrCYCi1JajJ1BR3/pages/calendar.js": 6,
+      "static/wbindynrCYCi1JajJ1BR3/pages/index.js": 7,
+      "static/wbindynrCYCi1JajJ1BR3/pages/memberships.js": 8,
+      "static/wbindynrCYCi1JajJ1BR3/pages/schedule.js": 9,
+      "static/wbindynrCYCi1JajJ1BR3/pages/trainers.js": 10
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
