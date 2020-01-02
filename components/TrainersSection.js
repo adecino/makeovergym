@@ -13,7 +13,7 @@ class TrainersSection extends Component {
 
                 <style jsx>{`
                     .trainersSection {
-                        font-family: Lato;                    
+                        font-family: Helvetica;                    
                     }
 
                     .trainersSection .shoutout {

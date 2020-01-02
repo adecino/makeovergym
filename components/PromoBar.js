@@ -10,7 +10,7 @@ class PromoBar extends Component {
                         height: 15vh;
                         background-size: cover;
                         background-color: #e05275;
-                        font-family: Lato;
+                        font-family: Helvetica;
                         font-weight: 900;
                     }
 

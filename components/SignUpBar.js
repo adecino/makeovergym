@@ -12,7 +12,7 @@ class SignUpBar extends Component {
                     }
 
                     .signUpBar h1 {
-                        font-family: Lato;
+                        font-family: Helvetica;
                         font-weight: 900;
                         margin:0;
                         color: white;

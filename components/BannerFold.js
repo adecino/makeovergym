@@ -20,7 +20,7 @@ class BannerFold extends Component {
                         color: white;
                         text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
                         font-size: 5vw;
-                        font-family: Lato;
+                        font-family: Helvetica;
                         font-weight: 900;
                         text-align: left;
                         padding-left: 100px;

@@ -23,7 +23,7 @@ class InfoSectionContainer extends Component {
                     width: 50%;
                     background-color: #404040;
                     text-align: left;
-                    font-family: Lato;
+                    font-family: Helvetica;
                     color: white;
                     margin-top: 0px;
                 }

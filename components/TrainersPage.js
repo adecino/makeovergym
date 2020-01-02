@@ -13,7 +13,7 @@ class TrainersPage extends Component {
                     }
 
                     .trainersBar h1 {
-                        font-family: Lato;
+                        font-family: Helvetica;
                         font-weight: 900;
                         margin:0;
                         background-color: #e05275;
