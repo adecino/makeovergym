@@ -42,7 +42,7 @@ class BannerFold extends Component {
                         }
                     }
                 `}</style>
-            </div>              
+            </div>
         );
     }
 }

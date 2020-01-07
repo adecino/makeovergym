@@ -1,29 +1,34 @@
 import React, {Component} from "react";
-import Header from '../components/Header';
-import Footer from '../components/Footer';
-import MembershipsPage from '../components/MembershipsPage';
-
+import Page from '../components/Page';
+import InformationSection from '../components/InformationSection';
 
 class membershipPage extends Component {
     render() {
         return (
-            <div>
-                <Header/>
-                <MembershipsPage/>
-                <Footer/>
+            <Page>
+                <h1>MEMBERSHIPS</h1>
+                <InformationSection/>
+
                 <style jsx>{`
-                    body {
-                        margin: 0;
-                        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-                        -webkit-font-smoothing: antialiased;
-                        -moz-osx-font-smoothing: grayscale;
+                    .signUpBar {
+                        background-size: cover;
                     }
 
-                    code {
-                        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+                    .signUpBar h1 {
+                        font-family: Helvetica;
+                        font-weight: 900;
+                        margin:0;
+                        background-color: #e05275;
+                        color: white;
+                        font-size: 50px;
+                        text-align: center;
+                        padding-top: 10px;
+                        padding-bottom: 20px;
+                        vertical-align: middle;
+                        font-size: 5vh;
                     }
                 `}</style>
-            </div>
+            </Page>
         );
     }
  }
