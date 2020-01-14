@@ -1,28 +1,34 @@
 import React, {Component} from "react";
-import Header from '../components/Header';
-import Footer from '../components/Footer';
-import TrainersPage from '../components/TrainersPage';
+import Page from '../components/Page';
+import TrainersSection from '../components/TrainersSection';
 
 class trainersPage extends Component {
     render() {
         return (
-            <div>
-                <Header/>
-                <TrainersPage/>
-                <Footer/>
+            <Page>
+                <h1>TRAINERS</h1>
+                <TrainersSection/>
+
                 <style jsx>{`
-                    body {
-                        margin: 0;
-                        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-                        -webkit-font-smoothing: antialiased;
-                        -moz-osx-font-smoothing: grayscale;
+                    .trainersBar {
+                        background-size: cover;
                     }
 
-                    code {
-                        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+                    .trainersBar h1 {
+                        font-family: Helvetica;
+                        font-weight: 900;
+                        margin:0;
+                        background-color: #e05275;
+                        color: white;
+                        font-size: 50px;
+                        text-align: center;
+                        padding-top: 10px;
+                        padding-bottom: 20px;
+                        vertical-align: middle;
+                        font-size: 5vh;
                     }
                 `}</style>
-            </div>
+            </Page>
         );
     }
  }
