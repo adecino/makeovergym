@@ -6,12 +6,21 @@ class trainersPage extends Component {
     render() {
         return (
             <Page>
-                <h1>TRAINERS</h1>
+                <h1 className="pageHeader">OWNERS</h1>
                 <TrainersSection/>
 
                 <style jsx>{`
                     .trainersBar {
                         background-size: cover;
+                    }
+
+                    .pageHeader {
+                        background-color: #e05275;
+                        color: white;
+                        font-family: Helvetica;
+                        margin-top: 0px;
+                        margin-bottom: 0px;
+                        text-align: center;
                     }
 
                     .trainersBar h1 {

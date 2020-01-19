@@ -10,7 +10,7 @@ class Header extends Component {
                     <Link href="/memberships"><a> Memberships </a></Link>
                     <Link href="/schedule"><a> Schedule </a></Link>
                     <Link href="/calendar"><a> Calendar </a></Link>
-                    <Link href="/trainers"><a> Trainers </a></Link>
+                    <Link href="/trainers"><a> Owners </a></Link>
                 </div>
                 <style jsx>{`
                     .header {

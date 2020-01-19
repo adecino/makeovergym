@@ -1,48 +1,44 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_d6a88dbe3071bd165157.js",
+    "static/development/dll/dll_d6a88dbe3071bd165157.js.map"
+  ],
   "pages": {
     "/": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_app": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills-a591b2980a0968e30eae.js"
+      "static/runtime/polyfills.js",
+      "static/runtime/polyfills.js.map"
     ],
     "/calendar": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/index": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/memberships": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/schedule": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/trainers": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.e4059027a1f3cb1e28fd.js",
-      "static/runtime/main-0cfd875be3b49503c337.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }

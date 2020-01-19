@@ -6,12 +6,21 @@ class membershipPage extends Component {
     render() {
         return (
             <Page>
-                <h1>MEMBERSHIPS</h1>
+                <h1 className="pageHeader">MEMBERSHIPS</h1>
                 <InformationSection/>
 
                 <style jsx>{`
                     .signUpBar {
                         background-size: cover;
+                    }
+
+                    .pageHeader {
+                        background-color: #e05275;
+                        color: white;
+                        font-family: Helvetica;
+                        margin-top: 0px;
+                        margin-bottom: 0px;
+                        text-align: center;
                     }
 
                     .signUpBar h1 {
