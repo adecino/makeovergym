@@ -35,7 +35,7 @@ class TrainersSection extends Component {
 
                     .trainersSection .stacyImage {
                         width: 50%;
-                        background-image: url("http://drive.google.com/uc?export=view&id=12fpfNQpYoandpW_R_L5Mx2-8crHyGMow");
+                        background-image: url("https://makeovergymfitness.s3-us-west-1.amazonaws.com/stacy_bio.jpg");
                         height: 100vh;
                         background-size: cover;
                         display: inline-block;
@@ -43,7 +43,7 @@ class TrainersSection extends Component {
 
                     .trainersSection .marleneImage {
                         width: 50%;
-                        background-image: url("http://drive.google.com/uc?export=view&id=1oK4v5zNiHBdjFguUrH_x8zQytQBqkVUh");
+                        background-image: url("https://makeovergymfitness.s3-us-west-1.amazonaws.com/marlenebio.jpeg");
                         height: 100vh;
                         background-size: cover;
                         display: inline-block;

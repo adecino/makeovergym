@@ -1,12 +1,10 @@
-import React, {Component} from "react";
+import React from "react";
 import Page from '../components/Page';
 
-class calendarPage extends Component {
-    render() {
-        return (
-            <Page />
-        );
-    }
+const calendarPage = () => {
+    return (
+        <Page />
+    );
  }
 
 export default calendarPage;

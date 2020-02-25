@@ -1,31 +1,27 @@
-import React, {Component} from "react";
+import React from "react";
 
-class InfoSectionImage extends Component {
-    render () {
-        return (
-            <div className = "infoSectionImage">
-                <style jsx>{`
+const InfoSectionImage = () => {
+    return (
+        <div className = "infoSectionImage">
+            <style jsx>{`
+                .infoSectionImage {
+                    background-image: url("http://drive.google.com/uc?export=view&id=1Y2H2DV__ISTvHG-pyIq9xWsUoQAJrWrE");
+                    background-size: cover;
+                    display: inline-block;
+                    height: 100vh;
+                    width: 50%;
+                }
+                @media screen and (max-width: 820px) {
                     .infoSectionImage {
-                        /*background-color: #e05275;*/
-                        display: inline-block;
-                        width: 50%;
-                        background-image: url("http://drive.google.com/uc?export=view&id=1Y2H2DV__ISTvHG-pyIq9xWsUoQAJrWrE");
-                        height: 100vh;
-                        background-size: cover;
+                        background-color: black;
+                        background-image: none;
+                        display: none;
                     }
-
-                    @media screen and (max-width: 820px) {
-                        .infoSectionImage {
-                            background-image: none;
-                            background-color: black;
-                            display: none;
-                        }
-                    }
-                `}</style>
-            </div>
-              
-        );
-    }
+                }
+            `}</style>
+        </div>
+            
+    );
 }
 
 export default InfoSectionImage;

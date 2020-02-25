@@ -1,41 +1,35 @@
-import React, {Component} from "react";
+import React from "react";
 
-class PromoBar extends Component {
-    render () {
-        return (
-            <div className = "promoBar">
-                <h1> Empowering women through health and fitness </h1>
-                <style jsx>{`
-                    .promoBar {
-                        height: 15vh;
-                        background-size: cover;
-                        background-color: #e05275;
-                        font-family: Helvetica;
-                        font-weight: 900;
-                    }
-
+const PromoBar = () => {
+    return (
+        <div className = "promoBar">
+            <h1> Empowering women through health and fitness </h1>
+            <style jsx>{`
+                .promoBar {
+                    background-color: #e05275;
+                    background-size: cover;
+                    height: 15vh;
+                }
+                .promoBar h1 {
+                    color: white;
+                    font-family: Helvetica;
+                    font-size: 2.5vw;
+                    font-weight: 900;
+                    margin:0;
+                    padding-top: 3vh;
+                    text-align: center;
+                    vertical-align: middle;
+                }
+                @media screen and (max-width: 820px) {
                     .promoBar h1 {
-                        margin:0;
-                        color: white;
+                        font-size: 7vw;
+                        padding: 3vh 2vw 0 2vw;
                         text-align: center;
-                        padding-top: 3vh;
-                        vertical-align: middle;
-                        font-size: 2.5vw;
                     }
-
-                    @media screen and (max-width: 820px) {
-                        .promoBar h1 {
-                            font-size: 7vw;
-                            padding-left: 2vw;
-                            padding-right: 2vw;
-                            padding-top: 3vh;
-                            text-align: center;
-                        }
-                    }
-                `}</style>
-            </div>
-        );
-    }
+                }
+            `}</style>
+        </div>
+    );
 }
 
 export default PromoBar;
